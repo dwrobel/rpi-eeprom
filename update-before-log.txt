@@ -1,0 +1,9 @@
+BCM2711 detected
+*** INSTALLING EEPROM UPDATES ***
+BOOTLOADER: update required
+CURRENT: Mon 15 Jul 2019 12:59:55 PM UTC (1563195595)
+ LATEST: Tue 10 Sep 2019 10:41:50 AM UTC (1568112110)
+VL805: update required
+CURRENT: 00013701
+ LATEST: 000137ab
+EEPROM updates pending. Please reboot to apply the update.
